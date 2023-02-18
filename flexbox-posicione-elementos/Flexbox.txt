@@ -1,0 +1,8 @@
+.headerPrincipal-titulo{
+    display: inline-block;
+    vertical-align: middle; /*sirve para colocar en centro los elementos pero se le agrega a ambos elementos*/
+}
+.headerPrincipal-nav{
+    display: inline-block;
+    vertical-align: middle; 
+}

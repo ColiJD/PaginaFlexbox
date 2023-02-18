@@ -1,0 +1,15 @@
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  .box {
+    width: 20%;
+    margin: 2.5%;
+    height: 50px;  
+    color: aliceblue;
+    background-color: green;
+  }
+
+  
